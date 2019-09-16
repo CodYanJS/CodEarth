@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SZSolution ToolsVersion="4.0" Name="Launcher" MainProject="CodLauncher">
+  <Project Name="CodLauncher" File="CodLauncher\CodLauncher.szproj" />
+  <GenerationOrder Name="CodLauncher" />
+  <Subversion_SaveLogin Value="False" />
+  <Subversion_RepositoryUrl Value="" />
+</SZSolution>
